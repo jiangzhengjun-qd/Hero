@@ -1,0 +1,3 @@
+// 告示牌获得箱子的请求数据
+["User.GetNoticeAward",{"typeID":1000,"eventID":"20193180830","roleID":140752},null,true,false,true]
+["User.GetNoticeAward",{"typeID":1000,"eventID":"20193180830","roleID":10123017},null,true,false,true]
