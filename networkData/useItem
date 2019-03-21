@@ -1,0 +1,6 @@
+//打开小包裹
+2开始-----------------------------------------------------------------------User,useItem
+初始请求===============["User.useItem",{"itemID":4140,"itemNum":1,"roleID":140752},null,true,false,false]
+加工请求===============["User.useItem",{"itemID":4140,"itemNum":1,"roleID":140752},null,true,false,false]
+返回数据==============={"error":0,"p":"User.useItem","User.useItem":{"eRet":1,"note":{"eco":{"coins":2997642,"exp":27050696,"ptt":943794},"attrch":{},"ivch":{"4140":60},"eqch":{}},"itemID":4140,"rewardArray":{"4001":500,"4002":100,"4003":100},"equipObj":{}}}
+2结束-----------------------------------------------------------------------
