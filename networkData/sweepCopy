@@ -1,0 +1,109 @@
+LangMgr.getInstance().getText(1186) = 当前副本还可参与[1]/[2]次,是否开始扫荡？
+LangMgr.getInstance().getText(579) = 是
+LangMgr.getInstance().getText(580) = 否
+2开始-----------------------------------------------------------------------User,sweepCopy
+初始请求===============["User.sweepCopy",{"copyID":1,"state":2,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[3,1,3,3,1,[1,1,0]]}}
+加工请求===============["User.sweepCopy",{"copyID":1,"state":2,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.sweepCopy","User.sweepCopy":{"eRet":1,"rewardArray":{"4140":6,"4141":1,"4142":1,"4143":1,"4144":1},"note":{"ivch":{"4140":114,"4141":16,"4142":19,"4143":19,"4144":19},"eqch":{}},"copyID":1,"state":2}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(33140) = 小包裹
+LangMgr.getInstance().getText(33141) = 翻垛的包裹
+LangMgr.getInstance().getText(33142) = 炮头的包裹
+LangMgr.getInstance().getText(33143) = 水香的包裹
+LangMgr.getInstance().getText(33144) = 坐三雕的包裹
+2开始-----------------------------------------------------------------------User,checkSpecial
+初始请求===============["User.checkSpecial",{"type":2,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.sweepCopy","User.sweepCopy":{"eRet":1,"rewardArray":{"4140":6,"4141":1,"4142":1,"4143":1,"4144":1},"note":{"ivch":{"4140":114,"4141":16,"4142":19,"4143":19,"4144":19},"eqch":{}},"copyID":1,"state":2}}
+加工请求===============["User.checkSpecial",{"type":2,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.checkSpecial","resultCode":200,"User.checkSpecial":{"eRet":3,"type":2,"eventID":0,"note":{"eco":{}}}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(123) = 你获得了
+
+
+LangMgr.getInstance().getText(1100001) = 神秘高手隐居之所,据说此人以绣花针为兵器,身为男性却喜穿女装.因挑战清虚道长失败隐居在此,后消失无踪,此地也被土匪占据.(月卡用户击败最终BOSS后可开启对应难度扫荡功能)
+LangMgr.getInstance().getText(934) = 简单
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+2开始-----------------------------------------------------------------------User,getCopyData
+初始请求===============["User.getCopyData",{"copyID":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+加工请求===============["User.getCopyData",{"copyID":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(1100001) = 神秘高手隐居之所,据说此人以绣花针为兵器,身为男性却喜穿女装.因挑战清虚道长失败隐居在此,后消失无踪,此地也被土匪占据.(月卡用户击败最终BOSS后可开启对应难度扫荡功能)
+LangMgr.getInstance().getText(934) = 简单
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+2开始-----------------------------------------------------------------------User,getCopyData
+初始请求===============["User.getCopyData",{"copyID":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+加工请求===============["User.getCopyData",{"copyID":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(939) = 今日挑战次数不足,可花费金条购买,月卡用户每日可额外免费购买[1]次.
+LangMgr.getInstance().getText(940) = 今日还可购买[1]/[2]次.
+LangMgr.getInstance().getText(118) = 购买
+LangMgr.getInstance().getText(944) = 免费
+2开始-----------------------------------------------------------------------User,BuyChallengeCount
+初始请求===============["User.BuyChallengeCount",{"copyID":1,"buyCount":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+加工请求===============["User.BuyChallengeCount",{"copyID":1,"buyCount":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.BuyChallengeCount","User.BuyChallengeCount":{"eRet":1,"note":{"eco":{}}}}
+2结束-----------------------------------------------------------------------
+2开始-----------------------------------------------------------------------User,sweepCopy
+初始请求===============["User.sweepCopy",{"copyID":1,"state":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.BuyChallengeCount","User.BuyChallengeCount":{"eRet":1,"note":{"eco":{}}}}
+加工请求===============["User.sweepCopy",{"copyID":1,"state":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.sweepCopy","User.sweepCopy":{"eRet":1,"rewardArray":{"4135":6,"4136":1,"4137":1,"4138":1,"4139":1},"note":{"ivch":{"4135":12,"4136":2,"4137":2,"4138":2,"4139":2},"eqch":{}},"copyID":1,"state":1}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(33135) = 小钱袋
+LangMgr.getInstance().getText(33136) = 翻垛的钱袋
+LangMgr.getInstance().getText(33137) = 炮头的钱袋
+LangMgr.getInstance().getText(33138) = 水香的钱袋
+LangMgr.getInstance().getText(33139) = 坐三雕的钱袋
+LangMgr.getInstance().getText(123) = 你获得了
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(939) = 今日挑战次数不足,可花费金条购买,月卡用户每日可额外免费购买[1]次.
+LangMgr.getInstance().getText(940) = 今日还可购买[1]/[2]次.
+LangMgr.getInstance().getText(118) = 购买
+LangMgr.getInstance().getText(944) = 免费
+2开始-----------------------------------------------------------------------User,BuyChallengeCount
+初始请求===============["User.BuyChallengeCount",{"copyID":1,"buyCount":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[0,1,3,3,1,[1,1,0]]}}
+加工请求===============["User.BuyChallengeCount",{"copyID":1,"buyCount":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.BuyChallengeCount","User.BuyChallengeCount":{"eRet":1,"note":{"eco":{}}}}
+2结束-----------------------------------------------------------------------
+2开始-----------------------------------------------------------------------User,sweepCopy
+初始请求===============["User.sweepCopy",{"copyID":1,"state":1,"roleID":10123017},null,true,false,true]
+上次返回==============={"error":0,"p":"User.BuyChallengeCount","User.BuyChallengeCount":{"eRet":1,"note":{"eco":{}}}}
+加工请求===============["User.sweepCopy",{"copyID":1,"state":1,"roleID":10123017},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.sweepCopy","User.sweepCopy":{"eRet":1,"rewardArray":{"4135":6,"4136":1,"4137":1,"4138":1,"4139":1},"note":{"ivch":{"4135":12,"4136":2,"4137":2,"4138":2,"4139":2},"eqch":{}},"copyID":1,"state":1}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(33135) = 小钱袋
+LangMgr.getInstance().getText(33136) = 翻垛的钱袋
+LangMgr.getInstance().getText(33137) = 炮头的钱袋
+LangMgr.getInstance().getText(33138) = 水香的钱袋
+LangMgr.getInstance().getText(33139) = 坐三雕的钱袋
+LangMgr.getInstance().getText(123) = 你获得了

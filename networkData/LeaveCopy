@@ -1,0 +1,60 @@
+LangMgr.getInstance().getText(1100001) = 神秘高手隐居之所,据说此人以绣花针为兵器,身为男性却喜穿女装.因挑战清虚道长失败隐居在此,后消失无踪,此地也被土匪占据.(月卡用户击败最终BOSS后可开启对应难度扫荡功能)
+LangMgr.getInstance().getText(934) = 简单
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+2开始-----------------------------------------------------------------------User,getCopyData
+初始请求===============["User.getCopyData",{"copyID":1,"roleID":140752},null,true,false,true]
+上次返回===============null
+加工请求===============["User.getCopyData",{"copyID":1,"roleID":140752},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[3,0,3,3,1,[1,1,0]]}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(1187) = 扫荡
+LangMgr.getInstance().getText(935) = 困难
+LangMgr.getInstance().getText(936) = 精英
+LangMgr.getInstance().getText(937) = 今日还可挑战[1]/[2]次,是否进入？(可随时通过界面左上角按钮退出)
+LangMgr.getInstance().getText(579) = 是
+LangMgr.getInstance().getText(580) = 否
+2开始-----------------------------------------------------------------------User,EneterCopy
+初始请求===============["User.EneterCopy",{"copyID":1,"state":2,"roleID":140752},null,true,false,true]
+上次返回==============={"error":0,"p":"User.getCopyData","User.getCopyData":{"copyArr":[3,0,3,3,1,[1,1,0]]}}
+加工请求===============["User.EneterCopy",{"copyID":1,"state":2,"roleID":140752},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.EneterCopy","User.EneterCopy":{"eRet":1,"state":2,"copyID":1}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(64801) = 江湖游侠
+LangMgr.getInstance().getText(32) = 菜单
+LangMgr.getInstance().getText(496) = 任务
+LangMgr.getInstance().getText(34) = 联网
+LangMgr.getInstance().getText(33) = 聊天
+LangMgr.getInstance().getText(1018) = 活动
+LangMgr.getInstance().getText(496) = 任务
+LangMgr.getInstance().getText(564) = 向下滑动屏幕隐藏按钮
+LangMgr.getInstance().getText(1000006) = 山寨前哨一
+LangMgr.getInstance().getText(943) = 退出副本后,累积奖励会自动进入背包,是否立即结束本次旅程？
+LangMgr.getInstance().getText(579) = 是
+LangMgr.getInstance().getText(580) = 否
+2开始-----------------------------------------------------------------------User,LeaveCopy
+初始请求===============["User.LeaveCopy",{"copyID":1,"npcArr":[],"flag":false,"roleID":140752},null,true,false,true]
+上次返回==============={"error":0,"p":"User.EneterCopy","User.EneterCopy":{"eRet":1,"state":2,"copyID":1}}
+加工请求===============["User.LeaveCopy",{"copyID":1,"npcArr":["10017",2,"10018",1,"10019",1,"10020",1,"10021",1,"10030",2,"10031",2],"flag":false,"roleID":140752},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.LeaveCopy","User.LeaveCopy":{"eRet":1,"rewardArray":{"4140":6,"4141":1,"4142":1,"4143":1,"4144":1},"note":{"ivch":{"4140":164,"4141":34,"4142":34,"4143":34,"4144":34},"eqch":{}},"copyID":1}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(33140) = 小包裹
+LangMgr.getInstance().getText(33141) = 翻垛的包裹
+LangMgr.getInstance().getText(33142) = 炮头的包裹
+LangMgr.getInstance().getText(33143) = 水香的包裹
+LangMgr.getInstance().getText(33144) = 坐三雕的包裹
+2开始-----------------------------------------------------------------------User,checkSpecial
+初始请求===============["User.checkSpecial",{"type":2,"roleID":140752},null,true,false,true]
+上次返回==============={"error":0,"p":"User.LeaveCopy","User.LeaveCopy":{"eRet":1,"rewardArray":{"4140":6,"4141":1,"4142":1,"4143":1,"4144":1},"note":{"ivch":{"4140":164,"4141":34,"4142":34,"4143":34,"4144":34},"eqch":{}},"copyID":1}}
+加工请求===============["User.checkSpecial",{"type":2,"roleID":140752},null,true,false,true]
+LangMgr.getInstance().getText(472) = 与服务器通讯中
+返回数据==============={"error":0,"p":"User.checkSpecial","resultCode":200,"User.checkSpecial":{"eRet":3,"type":2,"eventID":0,"note":{"eco":{}}}}
+2结束-----------------------------------------------------------------------
+LangMgr.getInstance().getText(123) = 你获得了
