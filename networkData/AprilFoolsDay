@@ -1,0 +1,37 @@
+// 假王崇阳事件
+["User.chanllengeTower",{"lv":7,"roleID":140752},null,true,false,true]
+{"error":0,"p":"User.chanllengeTower","resultCode":200,"User.chanllengeTower":{"eRet":1,"note":{"eco":{},"ivch":{}},"npcArr":[{"id":50004,"l":94,"s":0}],"eventID":11201,"muscle":10,"attrType":6,"mapID":41005}}
+// 假雄霸事件
+["User.chanllengeTower",{"lv":9,"roleID":140752},null,true,false,true]
+{"error":0,"p":"User.chanllengeTower","resultCode":200,"User.chanllengeTower":{"eRet":1,"note":{"eco":{},"ivch":{}},"npcArr":[{"id":50005,"l":98,"s":0}],"eventID":0,"muscle":10,"attrType":5,"mapID":41002}}
+// 假王崇阳
+2开始-----------------------------------------------------------------------User,acceptTask
+初始请求===============["User.acceptTask",{"taskID":901170,"roleID":140752},null,true,false,false]
+返回数据==============={"error":0,"p":"User.acceptTask","User.acceptTask":{"eRet":1,"note":{},"taskID":901170}}
+2结束-----------------------------------------------------------------------
+2开始-----------------------------------------------------------------------User,getFinishTaskAward
+初始请求===============["User.getFinishTaskAward",{"type":1,"taskID":901170,"choose":0,"gTime":14318825.023007235,"roleID":140752},null,true,false,false]
+返回数据==============={"error":0,"p":"User.getFinishTaskAward","User.getFinishTaskAward":{"eRet":1,"note":{"eco":{},"attrch":{},"ivch":{"6077":1},"eqch":{}},"rewardArray":{"6077":1},"taskID":901170,"choose":0}}
+// 假王崇阳镇长
+2开始-----------------------------------------------------------------------User,acceptTask
+初始请求===============["User.acceptTask",{"taskID":901200,"roleID":140752},null,true,false,false]
+返回数据==============={"error":0,"p":"User.acceptTask","User.acceptTask":{"eRet":1,"note":{},"taskID":901200}}
+2结束-----------------------------------------------------------------------
+2开始-----------------------------------------------------------------------User,getFinishTaskAward
+初始请求===============["User.getFinishTaskAward",{"type":1,"taskID":901200,"choose":0,"gTime":14318920.57100354,"roleID":140752},null,true,false,false]
+返回数据==============={"error":0,"p":"User.getFinishTaskAward","User.getFinishTaskAward":{"eRet":1,"note":{"eco":{},"attrch":{},"ivch":{"4540":254,"6077":0},"eqch":{}},"rewardArray":{"4540":10},"taskID":901200,"choose":0}}
+// 假雄霸
+2开始-----------------------------------------------------------------------User,acceptTask
+初始请求===============["User.acceptTask",{"taskID":901160,"roleID":10123017},null,true,false,false]
+返回数据==============={"error":0,"p":"User.acceptTask","User.acceptTask":{"eRet":1,"note":{},"taskID":901160}}
+2开始-----------------------------------------------------------------------User,getFinishTaskAward
+初始请求===============["User.getFinishTaskAward",{"type":1,"taskID":901160,"choose":0,"gTime":15724232.29163164,"roleID":10123017},null,true,false,false]
+返回数据==============={"error":0,"p":"User.getFinishTaskAward","User.getFinishTaskAward":{"eRet":1,"note":{"eco":{},"attrch":{},"ivch":{"6070":1},"eqch":{}},"rewardArray":{"6070":1},"taskID":901160,"choose":0}}
+// 假雄霸镇长
+2开始-----------------------------------------------------------------------User,acceptTask
+初始请求===============["User.acceptTask",{"taskID":901190,"roleID":10123017},null,true,false,false]
+返回数据==============={"error":0,"p":"User.acceptTask","User.acceptTask":{"eRet":1,"note":{},"taskID":901190}}
+2结束-----------------------------------------------------------------------
+2开始-----------------------------------------------------------------------User,getFinishTaskAward
+初始请求===============["User.getFinishTaskAward",{"type":1,"taskID":901190,"choose":0,"gTime":15724278.858633371,"roleID":10123017},null,true,false,false]
+返回数据==============={"error":0,"p":"User.getFinishTaskAward","User.getFinishTaskAward":{"eRet":1,"note":{"eco":{},"attrch":{},"ivch":{"4540":151,"6070":0},"eqch":{}},"rewardArray":{"4540":10},"taskID":901190,"choose":0}}
