@@ -1,0 +1,110 @@
+{
+	"npcID": 50208,
+	"skillArr": [{
+		"skillLV": 309,
+		"skillID": "1228",
+		"bigSkill": [1241, 1242],
+		"skillName": "金蛇游身掌"
+	}, {
+		"skillLV": 238,
+		"skillID": "1088",
+		"bigSkill": [1131],
+		"skillName": "七伤拳"
+	}, {
+		"skillLV": 200,
+		"skillID": "1175",
+		"bigSkill": [],
+		"skillName": "混元功"
+	}, {
+		"skillLV": 149,
+		"skillID": "1089",
+		"bigSkill": [1132],
+		"skillName": "虾米拳法"
+	}, {
+		"skillLV": 149,
+		"skillID": "1262",
+		"bigSkill": [1164, 1264],
+		"skillName": "咏春拳"
+	}, {
+		"skillLV": 143,
+		"skillID": "1103",
+		"bigSkill": [1152],
+		"skillName": "狂风刀法"
+	}, {
+		"skillLV": 131,
+		"skillID": "1109",
+		"bigSkill": [],
+		"skillName": "草上飞"
+	}, {
+		"skillLV": 100,
+		"skillID": "1102",
+		"bigSkill": [1151],
+		"skillName": "杀猪刀法"
+	}, {
+		"skillLV": 100,
+		"skillID": "1113",
+		"bigSkill": [],
+		"skillName": "先天功"
+	}, {
+		"skillLV": 99,
+		"skillID": "1098",
+		"bigSkill": [1145],
+		"skillName": "采花剑法"
+	}, {
+		"skillLV": 60,
+		"skillID": "1112",
+		"bigSkill": [1263],
+		"skillName": "吐纳法"
+	}],
+	"usrSkillArr": [{
+		"skillID": [1241, 1242],
+		"skillCD": 5,
+		"skillSts": true,
+		"skillName": "金蛇缠丝手"
+	}, {
+		"skillID": [1241, 1242],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "金龙升天"
+	}, {
+		"skillID": [1131],
+		"skillCD": 4,
+		"skillSts": true,
+		"skillName": "七伤总诀"
+	}, {
+		"skillID": [1132],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "打人打脸"
+	}, {
+		"skillID": [1164, 1264],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "寸拳"
+	}, {
+		"skillID": [1164, 1264],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "连环日字拳"
+	}, {
+		"skillID": [1152],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "狂风斩"
+	}, {
+		"skillID": [1151],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "快刀剔骨"
+	}, {
+		"skillID": [1145],
+		"skillCD": 5,
+		"skillSts": true,
+		"skillName": "辣手摧花"
+	}, {
+		"skillID": [1263],
+		"skillCD": 3,
+		"skillSts": true,
+		"skillName": "街头杀"
+	}]
+}
