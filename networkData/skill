@@ -1,110 +1,1633 @@
-{
-	"npcID": 50208,
-	"skillArr": [{
-		"skillLV": 309,
-		"skillID": "1228",
-		"bigSkill": [1241, 1242],
-		"skillName": "金蛇游身掌"
-	}, {
-		"skillLV": 238,
-		"skillID": "1088",
-		"bigSkill": [1131],
-		"skillName": "七伤拳"
-	}, {
-		"skillLV": 200,
-		"skillID": "1175",
-		"bigSkill": [],
-		"skillName": "混元功"
-	}, {
-		"skillLV": 149,
-		"skillID": "1089",
-		"bigSkill": [1132],
-		"skillName": "虾米拳法"
-	}, {
-		"skillLV": 149,
-		"skillID": "1262",
-		"bigSkill": [1164, 1264],
-		"skillName": "咏春拳"
-	}, {
-		"skillLV": 143,
-		"skillID": "1103",
-		"bigSkill": [1152],
-		"skillName": "狂风刀法"
-	}, {
-		"skillLV": 131,
-		"skillID": "1109",
-		"bigSkill": [],
-		"skillName": "草上飞"
-	}, {
-		"skillLV": 100,
-		"skillID": "1102",
-		"bigSkill": [1151],
-		"skillName": "杀猪刀法"
-	}, {
-		"skillLV": 100,
-		"skillID": "1113",
-		"bigSkill": [],
-		"skillName": "先天功"
-	}, {
-		"skillLV": 99,
-		"skillID": "1098",
-		"bigSkill": [1145],
-		"skillName": "采花剑法"
-	}, {
-		"skillLV": 60,
-		"skillID": "1112",
-		"bigSkill": [1263],
-		"skillName": "吐纳法"
-	}],
-	"usrSkillArr": [{
-		"skillID": [1241, 1242],
-		"skillCD": 5,
-		"skillSts": true,
-		"skillName": "金蛇缠丝手"
-	}, {
-		"skillID": [1241, 1242],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "金龙升天"
-	}, {
-		"skillID": [1131],
-		"skillCD": 4,
-		"skillSts": true,
-		"skillName": "七伤总诀"
-	}, {
-		"skillID": [1132],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "打人打脸"
-	}, {
-		"skillID": [1164, 1264],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "寸拳"
-	}, {
-		"skillID": [1164, 1264],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "连环日字拳"
-	}, {
-		"skillID": [1152],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "狂风斩"
-	}, {
-		"skillID": [1151],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "快刀剔骨"
-	}, {
-		"skillID": [1145],
-		"skillCD": 5,
-		"skillSts": true,
-		"skillName": "辣手摧花"
-	}, {
-		"skillID": [1263],
-		"skillCD": 3,
-		"skillSts": true,
-		"skillName": "街头杀"
-	}]
-}
+[{
+	"skillID": 1,
+	"bigSkill": [],
+	"skillName": "基本拳脚"
+}, {
+	"skillID": 2,
+	"bigSkill": [],
+	"skillName": "基本刀法"
+}, {
+	"skillID": 3,
+	"bigSkill": [],
+	"skillName": "基本棍法"
+}, {
+	"skillID": 4,
+	"bigSkill": [],
+	"skillName": "基本剑法"
+}, {
+	"skillID": 5,
+	"bigSkill": [],
+	"skillName": "基本鞭法"
+}, {
+	"skillID": 6,
+	"bigSkill": [],
+	"skillName": "基本暗器"
+}, {
+	"skillID": 7,
+	"bigSkill": [],
+	"skillName": "基本轻功"
+}, {
+	"skillID": 8,
+	"bigSkill": [],
+	"skillName": "基本内功"
+}, {
+	"skillID": 9,
+	"bigSkill": [],
+	"skillName": "读书识字"
+}, {
+	"skillID": 1000,
+	"bigSkill": [1035, 1036, 1037, 1038],
+	"skillName": "太极拳"
+}, {
+	"skillID": 1001,
+	"bigSkill": [1039, 1040, 1041],
+	"skillName": "太极剑"
+}, {
+	"skillID": 1002,
+	"bigSkill": [],
+	"skillName": "玄虚刀法"
+}, {
+	"skillID": 1003,
+	"bigSkill": [1042],
+	"skillName": "雪影擒拿手"
+}, {
+	"skillID": 1004,
+	"bigSkill": [1043, 1044, 1179],
+	"skillName": "雪山剑法"
+}, {
+	"skillID": 1005,
+	"bigSkill": [1060, 1180],
+	"skillName": "血杀掌"
+}, {
+	"skillID": 1006,
+	"bigSkill": [1061, 1165],
+	"skillName": "血影刀法"
+}, {
+	"skillID": 1007,
+	"bigSkill": [1055, 1056, 1057, 1337],
+	"skillName": "降龙十八掌"
+}, {
+	"skillID": 1008,
+	"bigSkill": [1058, 1059],
+	"skillName": "打狗棍法"
+}, {
+	"skillID": 1009,
+	"bigSkill": [1063],
+	"skillName": "万毒手"
+}, {
+	"skillID": 1010,
+	"bigSkill": [1064],
+	"skillName": "五毒暗器"
+}, {
+	"skillID": 1011,
+	"bigSkill": [1048, 1169, 1181, 1182, 1183, 1338],
+	"skillName": "伊贺体术"
+}, {
+	"skillID": 1012,
+	"bigSkill": [1049, 1050],
+	"skillName": "川枫一刀流"
+}, {
+	"skillID": 1013,
+	"bigSkill": [1053],
+	"skillName": "素心掌"
+}, {
+	"skillID": 1014,
+	"bigSkill": [1052],
+	"skillName": "玉女剑法"
+}, {
+	"skillID": 1015,
+	"bigSkill": [1051],
+	"skillName": "万花鞭法"
+}, {
+	"skillID": 1016,
+	"bigSkill": [1066, 1067],
+	"skillName": "达摩拳法"
+}, {
+	"skillID": 1017,
+	"bigSkill": [1068, 1069],
+	"skillName": "罗汉棍法"
+}, {
+	"skillID": 1018,
+	"bigSkill": [],
+	"skillName": "慈悲刀法"
+}, {
+	"skillID": 1019,
+	"bigSkill": [],
+	"skillName": "踏雪无痕"
+}, {
+	"skillID": 1020,
+	"bigSkill": [],
+	"skillName": "梯云纵"
+}, {
+	"skillID": 1021,
+	"bigSkill": [],
+	"skillName": "血影步"
+}, {
+	"skillID": 1022,
+	"bigSkill": [],
+	"skillName": "逍遥游"
+}, {
+	"skillID": 1023,
+	"bigSkill": [],
+	"skillName": "五毒幻形"
+}, {
+	"skillID": 1024,
+	"bigSkill": [1054],
+	"skillName": "飞蝶舞步"
+}, {
+	"skillID": 1025,
+	"bigSkill": [],
+	"skillName": "水上漂"
+}, {
+	"skillID": 1026,
+	"bigSkill": [1047],
+	"skillName": "影遁之术"
+}, {
+	"skillID": 1027,
+	"bigSkill": [1045],
+	"skillName": "冰心诀"
+}, {
+	"skillID": 1028,
+	"bigSkill": [],
+	"skillName": "太极神功"
+}, {
+	"skillID": 1029,
+	"bigSkill": [1062],
+	"skillName": "嗜血经"
+}, {
+	"skillID": 1030,
+	"bigSkill": [],
+	"skillName": "四海经"
+}, {
+	"skillID": 1031,
+	"bigSkill": [1065, 1178],
+	"skillName": "百毒秘术"
+}, {
+	"skillID": 1032,
+	"bigSkill": [1046],
+	"skillName": "扶桑忍术"
+}, {
+	"skillID": 1033,
+	"bigSkill": [],
+	"skillName": "玉女心经"
+}, {
+	"skillID": 1034,
+	"bigSkill": [1070, 1174],
+	"skillName": "易筋经"
+}, {
+	"skillID": 1035,
+	"bigSkill": [],
+	"skillName": "挤字诀"
+}, {
+	"skillID": 1036,
+	"bigSkill": [],
+	"skillName": "震字诀"
+}, {
+	"skillID": 1037,
+	"bigSkill": [],
+	"skillName": "乱环诀"
+}, {
+	"skillID": 1038,
+	"bigSkill": [],
+	"skillName": "阴阳诀"
+}, {
+	"skillID": 1039,
+	"bigSkill": [],
+	"skillName": "缠字诀"
+}, {
+	"skillID": 1040,
+	"bigSkill": [],
+	"skillName": "连字诀"
+}, {
+	"skillID": 1041,
+	"bigSkill": [],
+	"skillName": "三环套月"
+}, {
+	"skillID": 1042,
+	"bigSkill": [],
+	"skillName": "神倒鬼跌"
+}, {
+	"skillID": 1043,
+	"bigSkill": [],
+	"skillName": "雪花六出"
+}, {
+	"skillID": 1044,
+	"bigSkill": [],
+	"skillName": "雪花六出S"
+}, {
+	"skillID": 1045,
+	"bigSkill": [],
+	"skillName": "玄冰护体"
+}, {
+	"skillID": 1046,
+	"bigSkill": [],
+	"skillName": "影分身"
+}, {
+	"skillID": 1047,
+	"bigSkill": [],
+	"skillName": "烟幕"
+}, {
+	"skillID": 1048,
+	"bigSkill": [],
+	"skillName": "八门遁甲"
+}, {
+	"skillID": 1049,
+	"bigSkill": [],
+	"skillName": "旋风三连斩"
+}, {
+	"skillID": 1050,
+	"bigSkill": [],
+	"skillName": "迎风一刀斩"
+}, {
+	"skillID": 1051,
+	"bigSkill": [],
+	"skillName": "落英缤纷"
+}, {
+	"skillID": 1052,
+	"bigSkill": [],
+	"skillName": "双剑合璧"
+}, {
+	"skillID": 1053,
+	"bigSkill": [],
+	"skillName": "玉女清心"
+}, {
+	"skillID": 1054,
+	"bigSkill": [],
+	"skillName": "三花聚顶"
+}, {
+	"skillID": 1055,
+	"bigSkill": [],
+	"skillName": "见龙在田"
+}, {
+	"skillID": 1056,
+	"bigSkill": [],
+	"skillName": "利涉大川"
+}, {
+	"skillID": 1057,
+	"bigSkill": [],
+	"skillName": "亢龙有悔"
+}, {
+	"skillID": 1058,
+	"bigSkill": [],
+	"skillName": "蜀犬吠日"
+}, {
+	"skillID": 1059,
+	"bigSkill": [],
+	"skillName": "天下伏狗"
+}, {
+	"skillID": 1060,
+	"bigSkill": [],
+	"skillName": "血流成河"
+}, {
+	"skillID": 1061,
+	"bigSkill": [],
+	"skillName": "泣血斩"
+}, {
+	"skillID": 1062,
+	"bigSkill": [],
+	"skillName": "嗜血"
+}, {
+	"skillID": 1063,
+	"bigSkill": [],
+	"skillName": "形销骨朽"
+}, {
+	"skillID": 1064,
+	"bigSkill": [],
+	"skillName": "黑雾流星"
+}, {
+	"skillID": 1065,
+	"bigSkill": [],
+	"skillName": "天绝地灭"
+}, {
+	"skillID": 1066,
+	"bigSkill": [],
+	"skillName": "大力金刚掌"
+}, {
+	"skillID": 1067,
+	"bigSkill": [],
+	"skillName": "拈花指"
+}, {
+	"skillID": 1068,
+	"bigSkill": [],
+	"skillName": "千斤坠"
+}, {
+	"skillID": 1069,
+	"bigSkill": [],
+	"skillName": "金钟护体"
+}, {
+	"skillID": 1070,
+	"bigSkill": [],
+	"skillName": "狮吼功"
+}, {
+	"skillID": 1071,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1072,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1073,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1074,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1075,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1076,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1077,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1078,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1079,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1080,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1081,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1082,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1083,
+	"bigSkill": [1126],
+	"skillName": "雪山六阳掌"
+}, {
+	"skillID": 1084,
+	"bigSkill": [1127],
+	"skillName": "化骨绵掌"
+}, {
+	"skillID": 1085,
+	"bigSkill": [1128, 1259],
+	"skillName": "如来神掌"
+}, {
+	"skillID": 1086,
+	"bigSkill": [1129],
+	"skillName": "黯然掌"
+}, {
+	"skillID": 1087,
+	"bigSkill": [1130],
+	"skillName": "六脉剑气"
+}, {
+	"skillID": 1088,
+	"bigSkill": [1131],
+	"skillName": "七伤拳"
+}, {
+	"skillID": 1089,
+	"bigSkill": [1132],
+	"skillName": "虾米拳法"
+}, {
+	"skillID": 1090,
+	"bigSkill": [],
+	"skillName": "双手互博"
+}, {
+	"skillID": 1091,
+	"bigSkill": [1134],
+	"skillName": "九阴幽冥爪"
+}, {
+	"skillID": 1092,
+	"bigSkill": [1135, 1136],
+	"skillName": "弹指神通"
+}, {
+	"skillID": 1093,
+	"bigSkill": [1137],
+	"skillName": "唐门秘录"
+}, {
+	"skillID": 1094,
+	"bigSkill": [1138],
+	"skillName": "投石术"
+}, {
+	"skillID": 1095,
+	"bigSkill": [1139],
+	"skillName": "避邪剑法"
+}, {
+	"skillID": 1096,
+	"bigSkill": [1140, 1141, 1142],
+	"skillName": "唐诗剑法"
+}, {
+	"skillID": 1097,
+	"bigSkill": [1143, 1144],
+	"skillName": "两仪剑法"
+}, {
+	"skillID": 1098,
+	"bigSkill": [1145],
+	"skillName": "采花剑法"
+}, {
+	"skillID": 1099,
+	"bigSkill": [1147, 1148],
+	"skillName": "孤独九剑"
+}, {
+	"skillID": 1100,
+	"bigSkill": [1149],
+	"skillName": "雪饮刀法"
+}, {
+	"skillID": 1101,
+	"bigSkill": [1150],
+	"skillName": "反两仪刀法"
+}, {
+	"skillID": 1102,
+	"bigSkill": [1151],
+	"skillName": "杀猪刀法"
+}, {
+	"skillID": 1103,
+	"bigSkill": [1152],
+	"skillName": "狂风刀法"
+}, {
+	"skillID": 1104,
+	"bigSkill": [1153],
+	"skillName": "八卦棍法"
+}, {
+	"skillID": 1105,
+	"bigSkill": [1154],
+	"skillName": "霸王枪法"
+}, {
+	"skillID": 1106,
+	"bigSkill": [1155],
+	"skillName": "流氓棍法"
+}, {
+	"skillID": 1107,
+	"bigSkill": [1156],
+	"skillName": "女王鞭法"
+}, {
+	"skillID": 1108,
+	"bigSkill": [],
+	"skillName": "神行百变"
+}, {
+	"skillID": 1109,
+	"bigSkill": [],
+	"skillName": "草上飞"
+}, {
+	"skillID": 1110,
+	"bigSkill": [],
+	"skillName": "凌波微步"
+}, {
+	"skillID": 1111,
+	"bigSkill": [1177],
+	"skillName": "疾风步"
+}, {
+	"skillID": 1112,
+	"bigSkill": [1263],
+	"skillName": "吐纳法"
+}, {
+	"skillID": 1113,
+	"bigSkill": [],
+	"skillName": "先天功"
+}, {
+	"skillID": 1114,
+	"bigSkill": [1280],
+	"skillName": "蛤蟆功"
+}, {
+	"skillID": 1115,
+	"bigSkill": [],
+	"skillName": "逆运九阴"
+}, {
+	"skillID": 1116,
+	"bigSkill": [1323],
+	"skillName": "九阳功"
+}, {
+	"skillID": 1117,
+	"bigSkill": [],
+	"skillName": "洗髓经"
+}, {
+	"skillID": 1118,
+	"bigSkill": [],
+	"skillName": "菊花宝典"
+}, {
+	"skillID": 1119,
+	"bigSkill": [],
+	"skillName": "罗汉降魔功"
+}, {
+	"skillID": 1120,
+	"bigSkill": [],
+	"skillName": "太白经"
+}, {
+	"skillID": 1121,
+	"bigSkill": [],
+	"skillName": "神照经"
+}, {
+	"skillID": 1122,
+	"bigSkill": [1173],
+	"skillName": "十象般若功"
+}, {
+	"skillID": 1123,
+	"bigSkill": [],
+	"skillName": "九阴神功"
+}, {
+	"skillID": 1124,
+	"bigSkill": [1157],
+	"skillName": "寒玉功"
+}, {
+	"skillID": 1125,
+	"bigSkill": [1158, 1159],
+	"skillName": "北冥秘术"
+}, {
+	"skillID": 1126,
+	"bigSkill": [],
+	"skillName": "生死符"
+}, {
+	"skillID": 1127,
+	"bigSkill": [],
+	"skillName": "真*化骨绵掌"
+}, {
+	"skillID": 1128,
+	"bigSkill": [],
+	"skillName": "万佛朝宗"
+}, {
+	"skillID": 1129,
+	"bigSkill": [],
+	"skillName": "黯然销魂"
+}, {
+	"skillID": 1130,
+	"bigSkill": [],
+	"skillName": "六脉冲穴"
+}, {
+	"skillID": 1131,
+	"bigSkill": [],
+	"skillName": "七伤总诀"
+}, {
+	"skillID": 1132,
+	"bigSkill": [],
+	"skillName": "打人打脸"
+}, {
+	"skillID": 1133,
+	"bigSkill": [],
+	"skillName": "临阵磨枪"
+}, {
+	"skillID": 1134,
+	"bigSkill": [],
+	"skillName": "幽冥骨爪"
+}, {
+	"skillID": 1135,
+	"bigSkill": [],
+	"skillName": "弹球式"
+}, {
+	"skillID": 1136,
+	"bigSkill": [],
+	"skillName": "弹器式"
+}, {
+	"skillID": 1137,
+	"bigSkill": [],
+	"skillName": "暴雨梨花"
+}, {
+	"skillID": 1138,
+	"bigSkill": [],
+	"skillName": "击鱼技"
+}, {
+	"skillID": 1139,
+	"bigSkill": [],
+	"skillName": "追魂式"
+}, {
+	"skillID": 1140,
+	"bigSkill": [],
+	"skillName": "将进酒"
+}, {
+	"skillID": 1141,
+	"bigSkill": [],
+	"skillName": "侠客行"
+}, {
+	"skillID": 1142,
+	"bigSkill": [],
+	"skillName": "静夜思"
+}, {
+	"skillID": 1143,
+	"bigSkill": [],
+	"skillName": "极中有极"
+}, {
+	"skillID": 1144,
+	"bigSkill": [],
+	"skillName": "阴阳侯列"
+}, {
+	"skillID": 1145,
+	"bigSkill": [],
+	"skillName": "辣手摧花"
+}, {
+	"skillID": 1146,
+	"bigSkill": [],
+	"skillName": "破气式"
+}, {
+	"skillID": 1147,
+	"bigSkill": [],
+	"skillName": "破刃式"
+}, {
+	"skillID": 1148,
+	"bigSkill": [],
+	"skillName": "破掌式"
+}, {
+	"skillID": 1149,
+	"bigSkill": [],
+	"skillName": "傲寒六诀"
+}, {
+	"skillID": 1150,
+	"bigSkill": [],
+	"skillName": "日月无光"
+}, {
+	"skillID": 1151,
+	"bigSkill": [],
+	"skillName": "快刀剔骨"
+}, {
+	"skillID": 1152,
+	"bigSkill": [],
+	"skillName": "狂风斩"
+}, {
+	"skillID": 1153,
+	"bigSkill": [],
+	"skillName": "棍荡八方"
+}, {
+	"skillID": 1154,
+	"bigSkill": [],
+	"skillName": "回马枪"
+}, {
+	"skillID": 1155,
+	"bigSkill": [],
+	"skillName": "棒打鸳鸯"
+}, {
+	"skillID": 1156,
+	"bigSkill": [],
+	"skillName": "调教鞭笞"
+}, {
+	"skillID": 1157,
+	"bigSkill": [],
+	"skillName": "明玉诀"
+}, {
+	"skillID": 1158,
+	"bigSkill": [],
+	"skillName": "吸星大法"
+}, {
+	"skillID": 1159,
+	"bigSkill": [],
+	"skillName": "化功大法"
+}, {
+	"skillID": 1160,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1161,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1162,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1163,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1164,
+	"bigSkill": [],
+	"skillName": "寸拳"
+}, {
+	"skillID": 1165,
+	"bigSkill": [],
+	"skillName": "放血斩"
+}, {
+	"skillID": 1166,
+	"bigSkill": [1167, 1168, 1282],
+	"skillName": "基本轻功"
+}, {
+	"skillID": 1167,
+	"bigSkill": [],
+	"skillName": "青龙吟"
+}, {
+	"skillID": 1168,
+	"bigSkill": [],
+	"skillName": "青龙啸"
+}, {
+	"skillID": 1169,
+	"bigSkill": [],
+	"skillName": "千年杀"
+}, {
+	"skillID": 1170,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1171,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1172,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1173,
+	"bigSkill": [],
+	"skillName": "十象之力"
+}, {
+	"skillID": 1174,
+	"bigSkill": [],
+	"skillName": "大号狮吼功"
+}, {
+	"skillID": 1175,
+	"bigSkill": [],
+	"skillName": "混元功"
+}, {
+	"skillID": 1176,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1177,
+	"bigSkill": [],
+	"skillName": "暗杀"
+}, {
+	"skillID": 1178,
+	"bigSkill": [],
+	"skillName": "五蛊噬魂"
+}, {
+	"skillID": 1179,
+	"bigSkill": [],
+	"skillName": "寒梅飞雪"
+}, {
+	"skillID": 1180,
+	"bigSkill": [],
+	"skillName": "蚀血掌"
+}, {
+	"skillID": 1181,
+	"bigSkill": [],
+	"skillName": "朝孔雀"
+}, {
+	"skillID": 1182,
+	"bigSkill": [],
+	"skillName": "昼虎"
+}, {
+	"skillID": 1183,
+	"bigSkill": [],
+	"skillName": "夕象"
+}, {
+	"skillID": 1184,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1185,
+	"bigSkill": [1186],
+	"skillName": "老鲍勃三连"
+}, {
+	"skillID": 1186,
+	"bigSkill": [],
+	"skillName": "老鲍勃绝招"
+}, {
+	"skillID": 1187,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1188,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1189,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1190,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1191,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1192,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1193,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1194,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1195,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1196,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1197,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1198,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1199,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1200,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1201,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1202,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1203,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1204,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1205,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1206,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1207,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1208,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1209,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1210,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1211,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1212,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1213,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1214,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1215,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1216,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1217,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1218,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1219,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1220,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1221,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1222,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1223,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1224,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1225,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1226,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1227,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1228,
+	"bigSkill": [1241, 1242],
+	"skillName": "金蛇游身掌"
+}, {
+	"skillID": 1229,
+	"bigSkill": [1243, 1244],
+	"skillName": "金蛇锥法"
+}, {
+	"skillID": 1230,
+	"bigSkill": [1245, 1246],
+	"skillName": "赌神飞牌"
+}, {
+	"skillID": 1231,
+	"bigSkill": [1247],
+	"skillName": "芙蓉剑法"
+}, {
+	"skillID": 1232,
+	"bigSkill": [1248, 1249],
+	"skillName": "金蛇剑法"
+}, {
+	"skillID": 1233,
+	"bigSkill": [1250],
+	"skillName": "火焰刀"
+}, {
+	"skillID": 1234,
+	"bigSkill": [1251],
+	"skillName": "六合刀法"
+}, {
+	"skillID": 1235,
+	"bigSkill": [1252],
+	"skillName": "齐眉棍法"
+}, {
+	"skillID": 1236,
+	"bigSkill": [1253],
+	"skillName": "夜叉棍法"
+}, {
+	"skillID": 1237,
+	"bigSkill": [1254],
+	"skillName": "父爱鞭法"
+}, {
+	"skillID": 1238,
+	"bigSkill": [1255],
+	"skillName": "无常鞭法"
+}, {
+	"skillID": 1239,
+	"bigSkill": [1256],
+	"skillName": "游龙鞭法"
+}, {
+	"skillID": 1240,
+	"bigSkill": [1257, 1258],
+	"skillName": "红拂拂法"
+}, {
+	"skillID": 1241,
+	"bigSkill": [],
+	"skillName": "金蛇缠丝手"
+}, {
+	"skillID": 1242,
+	"bigSkill": [],
+	"skillName": "金龙升天"
+}, {
+	"skillID": 1243,
+	"bigSkill": [],
+	"skillName": "金蛇吐雾"
+}, {
+	"skillID": 1244,
+	"bigSkill": [],
+	"skillName": "漫天蛇影"
+}, {
+	"skillID": 1245,
+	"bigSkill": [],
+	"skillName": "同花顺"
+}, {
+	"skillID": 1246,
+	"bigSkill": [],
+	"skillName": "王炸"
+}, {
+	"skillID": 1247,
+	"bigSkill": [],
+	"skillName": "芙蓉之舞"
+}, {
+	"skillID": 1248,
+	"bigSkill": [],
+	"skillName": "金蛇化龙"
+}, {
+	"skillID": 1249,
+	"bigSkill": [],
+	"skillName": "锁剑诀"
+}, {
+	"skillID": 1250,
+	"bigSkill": [],
+	"skillName": "烈火焚光"
+}, {
+	"skillID": 1251,
+	"bigSkill": [],
+	"skillName": "六合无极"
+}, {
+	"skillID": 1252,
+	"bigSkill": [],
+	"skillName": "齐眉点灯"
+}, {
+	"skillID": 1253,
+	"bigSkill": [],
+	"skillName": "夜叉探海"
+}, {
+	"skillID": 1254,
+	"bigSkill": [],
+	"skillName": "爱之鞭挞"
+}, {
+	"skillID": 1255,
+	"bigSkill": [],
+	"skillName": "无常夺命"
+}, {
+	"skillID": 1256,
+	"bigSkill": [],
+	"skillName": "游龙惊凤"
+}, {
+	"skillID": 1257,
+	"bigSkill": [],
+	"skillName": "红拂盖顶"
+}, {
+	"skillID": 1258,
+	"bigSkill": [],
+	"skillName": "旋风探云"
+}, {
+	"skillID": 1259,
+	"bigSkill": [],
+	"skillName": "立地成佛"
+}, {
+	"skillID": 1260,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1261,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1262,
+	"bigSkill": [1164, 1264],
+	"skillName": "咏春拳"
+}, {
+	"skillID": 1263,
+	"bigSkill": [],
+	"skillName": "街头杀"
+}, {
+	"skillID": 1264,
+	"bigSkill": [],
+	"skillName": "连环日字拳"
+}, {
+	"skillID": 1265,
+	"bigSkill": [1266],
+	"skillName": "流星蝴蝶剑"
+}, {
+	"skillID": 1266,
+	"bigSkill": [],
+	"skillName": "流星飞坠"
+}, {
+	"skillID": 1267,
+	"bigSkill": [1271, 1272],
+	"skillName": "雄霸天下刀法"
+}, {
+	"skillID": 1268,
+	"bigSkill": [1273, 1274],
+	"skillName": "天龙八音指法"
+}, {
+	"skillID": 1269,
+	"bigSkill": [1275, 1276],
+	"skillName": "玄冥神掌"
+}, {
+	"skillID": 1270,
+	"bigSkill": [1277, 1278, 1279],
+	"skillName": "小李飞刀"
+}, {
+	"skillID": 1271,
+	"bigSkill": [],
+	"skillName": "绝情斩"
+}, {
+	"skillID": 1272,
+	"bigSkill": [],
+	"skillName": "阿鼻道三刀"
+}, {
+	"skillID": 1273,
+	"bigSkill": [],
+	"skillName": "十面埋伏"
+}, {
+	"skillID": 1274,
+	"bigSkill": [],
+	"skillName": "八音绕梁"
+}, {
+	"skillID": 1275,
+	"bigSkill": [],
+	"skillName": "玄毒入体"
+}, {
+	"skillID": 1276,
+	"bigSkill": [],
+	"skillName": "冥毒入体"
+}, {
+	"skillID": 1277,
+	"bigSkill": [],
+	"skillName": "浪子多情"
+}, {
+	"skillID": 1278,
+	"bigSkill": [],
+	"skillName": "剑客无情"
+}, {
+	"skillID": 1279,
+	"bigSkill": [],
+	"skillName": "飞刀问情"
+}, {
+	"skillID": 1280,
+	"bigSkill": [],
+	"skillName": "蛤蟆真气"
+}, {
+	"skillID": 1281,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1282,
+	"bigSkill": [],
+	"skillName": "青龙怒"
+}, {
+	"skillID": 1283,
+	"bigSkill": [1284, 1285],
+	"skillName": "0"
+}, {
+	"skillID": 1284,
+	"bigSkill": [],
+	"skillName": "三分神指"
+}, {
+	"skillID": 1285,
+	"bigSkill": [],
+	"skillName": "三分归元气"
+}, {
+	"skillID": 1286,
+	"bigSkill": [1335],
+	"skillName": "闪电拳"
+}, {
+	"skillID": 1287,
+	"bigSkill": [1288, 1332, 1333, 1334],
+	"skillName": "书生夺命剑"
+}, {
+	"skillID": 1288,
+	"bigSkill": [],
+	"skillName": "面目全非脚"
+}, {
+	"skillID": 1289,
+	"bigSkill": [],
+	"skillName": "飞轮大法"
+}, {
+	"skillID": 1290,
+	"bigSkill": [1291],
+	"skillName": "金枪射击"
+}, {
+	"skillID": 1291,
+	"bigSkill": [],
+	"skillName": "金枪爆射"
+}, {
+	"skillID": 1292,
+	"bigSkill": [1293, 1294],
+	"skillName": "雄霸拳"
+}, {
+	"skillID": 1293,
+	"bigSkill": [],
+	"skillName": "天霜拳"
+}, {
+	"skillID": 1294,
+	"bigSkill": [],
+	"skillName": "排云掌"
+}, {
+	"skillID": 1295,
+	"bigSkill": [1296],
+	"skillName": "移花掌"
+}, {
+	"skillID": 1296,
+	"bigSkill": [],
+	"skillName": "移花接玉"
+}, {
+	"skillID": 1297,
+	"bigSkill": [1298],
+	"skillName": "日月掌"
+}, {
+	"skillID": 1298,
+	"bigSkill": [],
+	"skillName": "日月神掌"
+}, {
+	"skillID": 1299,
+	"bigSkill": [1300, 1301],
+	"skillName": "太保拳"
+}, {
+	"skillID": 1300,
+	"bigSkill": [],
+	"skillName": "十三太保横练金钟罩"
+}, {
+	"skillID": 1301,
+	"bigSkill": [],
+	"skillName": "鹰爪功"
+}, {
+	"skillID": 1302,
+	"bigSkill": [1303],
+	"skillName": "小无相功"
+}, {
+	"skillID": 1303,
+	"bigSkill": [],
+	"skillName": "无相劫指"
+}, {
+	"skillID": 1304,
+	"bigSkill": [1305],
+	"skillName": "无相拳"
+}, {
+	"skillID": 1305,
+	"bigSkill": [],
+	"skillName": "无相神拳"
+}, {
+	"skillID": 1306,
+	"bigSkill": [1307],
+	"skillName": "鳄神剪法"
+}, {
+	"skillID": 1307,
+	"bigSkill": [],
+	"skillName": "鳄吞天下"
+}, {
+	"skillID": 1308,
+	"bigSkill": [1309],
+	"skillName": "鹤杖法"
+}, {
+	"skillID": 1309,
+	"bigSkill": [],
+	"skillName": "蛇鹤八打"
+}, {
+	"skillID": 1310,
+	"bigSkill": [1311],
+	"skillName": "0"
+}, {
+	"skillID": 1311,
+	"bigSkill": [],
+	"skillName": "乾坤大挪移"
+}, {
+	"skillID": 1312,
+	"bigSkill": [1313],
+	"skillName": "圣火打击"
+}, {
+	"skillID": 1313,
+	"bigSkill": [],
+	"skillName": "圣火燎原"
+}, {
+	"skillID": 1314,
+	"bigSkill": [1315],
+	"skillName": "0"
+}, {
+	"skillID": 1315,
+	"bigSkill": [],
+	"skillName": "天罡北斗阵"
+}, {
+	"skillID": 1316,
+	"bigSkill": [],
+	"skillName": "全真剑法"
+}, {
+	"skillID": 1317,
+	"bigSkill": [1318],
+	"skillName": "0"
+}, {
+	"skillID": 1318,
+	"bigSkill": [],
+	"skillName": "老大的激励"
+}, {
+	"skillID": 1319,
+	"bigSkill": [1320],
+	"skillName": "黑帮斧法"
+}, {
+	"skillID": 1320,
+	"bigSkill": [],
+	"skillName": "飞斧"
+}, {
+	"skillID": 1321,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1322,
+	"bigSkill": [1324, 1330],
+	"skillName": "天女鞭法"
+}, {
+	"skillID": 1323,
+	"bigSkill": [],
+	"skillName": "九阳护体"
+}, {
+	"skillID": 1324,
+	"bigSkill": [],
+	"skillName": "天女散花"
+}, {
+	"skillID": 1325,
+	"bigSkill": [1326, 1327],
+	"skillName": "绣花针法"
+}, {
+	"skillID": 1326,
+	"bigSkill": [],
+	"skillName": "锁链绣"
+}, {
+	"skillID": 1327,
+	"bigSkill": [],
+	"skillName": "天地绣"
+}, {
+	"skillID": 1328,
+	"bigSkill": [1329],
+	"skillName": "铁拐击"
+}, {
+	"skillID": 1329,
+	"bigSkill": [],
+	"skillName": "一阳指"
+}, {
+	"skillID": 1330,
+	"bigSkill": [],
+	"skillName": "天女下凡"
+}, {
+	"skillID": 1331,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1332,
+	"bigSkill": [],
+	"skillName": "悬梁刺股"
+}, {
+	"skillID": 1333,
+	"bigSkill": [],
+	"skillName": "奋笔疾书"
+}, {
+	"skillID": 1334,
+	"bigSkill": [],
+	"skillName": "凿壁借光"
+}, {
+	"skillID": 1335,
+	"bigSkill": [],
+	"skillName": "蛤蟆冲撞"
+}, {
+	"skillID": 1336,
+	"bigSkill": [],
+	"skillName": "五轮大转"
+}, {
+	"skillID": 1337,
+	"bigSkill": [],
+	"skillName": "擒龙功"
+}, {
+	"skillID": 1338,
+	"bigSkill": [],
+	"skillName": "螺旋丸"
+}, {
+	"skillID": 1341,
+	"bigSkill": [1343, 1344],
+	"skillName": "全真剑法"
+}, {
+	"skillID": 1342,
+	"bigSkill": [1332, 1333, 1334],
+	"skillName": "书生夺命剑"
+}, {
+	"skillID": 1343,
+	"bigSkill": [],
+	"skillName": "天罡剑气"
+}, {
+	"skillID": 1344,
+	"bigSkill": [],
+	"skillName": "北斗剑意"
+}, {
+	"skillID": 1345,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1346,
+	"bigSkill": [],
+	"skillName": "【破刃】"
+}, {
+	"skillID": 1347,
+	"bigSkill": [],
+	"skillName": "【狂暴】"
+}, {
+	"skillID": 1348,
+	"bigSkill": [],
+	"skillName": "【击晕】"
+}, {
+	"skillID": 1349,
+	"bigSkill": [],
+	"skillName": "【封神】"
+}, {
+	"skillID": 1350,
+	"bigSkill": [],
+	"skillName": "【七绝毒】"
+}, {
+	"skillID": 1351,
+	"bigSkill": [],
+	"skillName": "【断筋】"
+}, {
+	"skillID": 1352,
+	"bigSkill": [],
+	"skillName": "【反伤】【中毒】"
+}, {
+	"skillID": 1353,
+	"bigSkill": [],
+	"skillName": "九阴神功一重"
+}, {
+	"skillID": 1354,
+	"bigSkill": [],
+	"skillName": "九阴神功二重"
+}, {
+	"skillID": 1355,
+	"bigSkill": [],
+	"skillName": "九阴神功三重"
+}, {
+	"skillID": 1356,
+	"bigSkill": [],
+	"skillName": "九阴神功四重"
+}, {
+	"skillID": 1357,
+	"bigSkill": [],
+	"skillName": "九阴摄魂"
+}, {
+	"skillID": 1358,
+	"bigSkill": [],
+	"skillName": "螺旋九影"
+}, {
+	"skillID": 1359,
+	"bigSkill": [1360, 1361, 1362],
+	"skillName": "撕咬"
+}, {
+	"skillID": 1360,
+	"bigSkill": [],
+	"skillName": "利爪撕裂"
+}, {
+	"skillID": 1361,
+	"bigSkill": [],
+	"skillName": "狂犬撕咬"
+}, {
+	"skillID": 1362,
+	"bigSkill": [],
+	"skillName": "狂怒"
+}, {
+	"skillID": 1363,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1364,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1365,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1366,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1367,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1368,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1369,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1370,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1371,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1372,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1373,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1374,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1375,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1376,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1377,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1378,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1379,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1380,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1381,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1382,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1383,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1384,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1385,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1386,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1387,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1388,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1389,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1390,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1391,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1392,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1393,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1394,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1395,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1396,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1397,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1398,
+	"bigSkill": [],
+	"skillName": "0"
+}, {
+	"skillID": 1400,
+	"bigSkill": [],
+	"skillName": "血影步"
+}, {
+	"skillID": 1401,
+	"bigSkill": [],
+	"skillName": "0"
+}]
