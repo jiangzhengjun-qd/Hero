@@ -1,0 +1,1880 @@
+[{
+	"npcName": "火云邪神",
+	"npcId": 3087,
+	"npcLv": 999
+}, {
+	"npcName": "神秘人",
+	"npcId": 1016,
+	"npcLv": 999
+}, {
+	"npcName": "神秘人",
+	"npcId": 1003,
+	"npcLv": 999
+}, {
+	"npcName": "神秘人",
+	"npcId": 3033,
+	"npcLv": 999
+}, {
+	"npcName": "独孤求败",
+	"npcId": 1256,
+	"npcLv": 450
+}, {
+	"npcName": "逍遥子",
+	"npcId": 3075,
+	"npcLv": 450
+}, {
+	"npcName": "逍遥子",
+	"npcId": 1264,
+	"npcLv": 450
+}, {
+	"npcName": "天池怪侠",
+	"npcId": 1083,
+	"npcLv": 400
+}, {
+	"npcName": "总瓢把子",
+	"npcId": 1188,
+	"npcLv": 360
+}, {
+	"npcName": "清虚道长",
+	"npcId": 3022,
+	"npcLv": 350
+}, {
+	"npcName": "清虚道长",
+	"npcId": 1049,
+	"npcLv": 350
+}, {
+	"npcName": "慧通方丈",
+	"npcId": 1120,
+	"npcLv": 340
+}, {
+	"npcName": "慧通方丈",
+	"npcId": 3024,
+	"npcLv": 340
+}, {
+	"npcName": "断指神丐",
+	"npcId": 1135,
+	"npcLv": 340
+}, {
+	"npcName": "副首领",
+	"npcId": 1187,
+	"npcLv": 340
+}, {
+	"npcName": "契丹高手",
+	"npcId": 1134,
+	"npcLv": 340
+}, {
+	"npcName": "火凤凰",
+	"npcId": 1149,
+	"npcLv": 330
+}, {
+	"npcName": "白自剑",
+	"npcId": 1084,
+	"npcLv": 330
+}, {
+	"npcName": "李清照",
+	"npcId": 3020,
+	"npcLv": 330
+}, {
+	"npcName": "李清照",
+	"npcId": 1068,
+	"npcLv": 330
+}, {
+	"npcName": "好色仙人",
+	"npcId": 1101,
+	"npcLv": 330
+}, {
+	"npcName": "大毒蛇",
+	"npcId": 1102,
+	"npcLv": 320
+}, {
+	"npcName": "血刀老祖",
+	"npcId": 3004,
+	"npcLv": 320
+}, {
+	"npcName": "聂隐娘",
+	"npcId": 1069,
+	"npcLv": 320
+}, {
+	"npcName": "血刀老祖",
+	"npcId": 1165,
+	"npcLv": 320
+}, {
+	"npcName": "红拂女",
+	"npcId": 1072,
+	"npcLv": 320
+}, {
+	"npcName": "铁拳钢手 ",
+	"npcId": 1100,
+	"npcLv": 320
+}, {
+	"npcName": "血刀老祖",
+	"npcId": 3005,
+	"npcLv": 320
+}, {
+	"npcName": "欧阳疯",
+	"npcId": 1244,
+	"npcLv": 320
+}, {
+	"npcName": "古松道长",
+	"npcId": 1050,
+	"npcLv": 320
+}, {
+	"npcName": "慧心大师",
+	"npcId": 1122,
+	"npcLv": 320
+}, {
+	"npcName": "慧明大师",
+	"npcId": 1121,
+	"npcLv": 310
+}, {
+	"npcName": "青龙坛主-鞭",
+	"npcId": 1184,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-刀",
+	"npcId": 3037,
+	"npcLv": 300
+}, {
+	"npcName": "黄药邪",
+	"npcId": 1243,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-鞭",
+	"npcId": 3035,
+	"npcLv": 300
+}, {
+	"npcName": "火云邪神",
+	"npcId": 1291,
+	"npcLv": 300
+}, {
+	"npcName": "郭巨侠",
+	"npcId": 1254,
+	"npcLv": 300
+}, {
+	"npcName": "卓文君",
+	"npcId": 1070,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-鞭",
+	"npcId": 3047,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-守",
+	"npcId": 1186,
+	"npcLv": 300
+}, {
+	"npcName": "徐渭",
+	"npcId": 1284,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-毒",
+	"npcId": 1185,
+	"npcLv": 300
+}, {
+	"npcName": "虬髯客",
+	"npcId": 1116,
+	"npcLv": 300
+}, {
+	"npcName": "金狮",
+	"npcId": 1117,
+	"npcLv": 300
+}, {
+	"npcName": "徐渭",
+	"npcId": 1237,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-棍",
+	"npcId": 1183,
+	"npcLv": 300
+}, {
+	"npcName": "徐渭",
+	"npcId": 3079,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-守",
+	"npcId": 3045,
+	"npcLv": 300
+}, {
+	"npcName": "火云邪神",
+	"npcId": 1296,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-剑",
+	"npcId": 1182,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-刀",
+	"npcId": 1181,
+	"npcLv": 300
+}, {
+	"npcName": "血掌老怪",
+	"npcId": 1164,
+	"npcLv": 300
+}, {
+	"npcName": "尹风雷",
+	"npcId": 1136,
+	"npcLv": 300
+}, {
+	"npcName": "杨麒麟",
+	"npcId": 1276,
+	"npcLv": 300
+}, {
+	"npcName": "苍月道长",
+	"npcId": 1051,
+	"npcLv": 300
+}, {
+	"npcName": "左长老",
+	"npcId": 1150,
+	"npcLv": 300
+}, {
+	"npcName": "林仙儿",
+	"npcId": 1263,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-掌",
+	"npcId": 1180,
+	"npcLv": 300
+}, {
+	"npcName": "青龙坛主-拳",
+	"npcId": 1179,
+	"npcLv": 300
+}, {
+	"npcName": "强盗",
+	"npcId": 2209,
+	"npcLv": 300
+}, {
+	"npcName": "曹公公",
+	"npcId": 1265,
+	"npcLv": 300
+}, {
+	"npcName": "容婆婆",
+	"npcId": 1085,
+	"npcLv": 290
+}, {
+	"npcName": "西域法王",
+	"npcId": 1269,
+	"npcLv": 280
+}, {
+	"npcName": "右长老",
+	"npcId": 1151,
+	"npcLv": 280
+}, {
+	"npcName": "慕容复",
+	"npcId": 3083,
+	"npcLv": 280
+}, {
+	"npcName": "强盗",
+	"npcId": 2208,
+	"npcLv": 280
+}, {
+	"npcName": "慕容复",
+	"npcId": 1270,
+	"npcLv": 280
+}, {
+	"npcName": "强盗",
+	"npcId": 2207,
+	"npcLv": 260
+}, {
+	"npcName": "段誉",
+	"npcId": 3082,
+	"npcLv": 250
+}, {
+	"npcName": "独行大侠",
+	"npcId": 1047,
+	"npcLv": 250
+}, {
+	"npcName": "黛绮丝",
+	"npcId": 1258,
+	"npcLv": 250
+}, {
+	"npcName": "海盗首领",
+	"npcId": 1298,
+	"npcLv": 250
+}, {
+	"npcName": "段誉",
+	"npcId": 1252,
+	"npcLv": 250
+}, {
+	"npcName": "独行大侠",
+	"npcId": 1213,
+	"npcLv": 250
+}, {
+	"npcName": "古柳道人",
+	"npcId": 1052,
+	"npcLv": 240
+}, {
+	"npcName": "解烟袋",
+	"npcId": 1202,
+	"npcLv": 240
+}, {
+	"npcName": "翠山道人",
+	"npcId": 1118,
+	"npcLv": 240
+}, {
+	"npcName": "霓裳",
+	"npcId": 1283,
+	"npcLv": 240
+}, {
+	"npcName": "白狼之子",
+	"npcId": 3123,
+	"npcLv": 240
+}, {
+	"npcName": "白狼之子",
+	"npcId": 1103,
+	"npcLv": 240
+}, {
+	"npcName": "解烟袋",
+	"npcId": 1096,
+	"npcLv": 240
+}, {
+	"npcName": "解烟袋",
+	"npcId": 1201,
+	"npcLv": 240
+}, {
+	"npcName": "智恒",
+	"npcId": 1123,
+	"npcLv": 230
+}, {
+	"npcName": "厨神",
+	"npcId": 1245,
+	"npcLv": 220
+}, {
+	"npcName": "八门热火",
+	"npcId": 1104,
+	"npcLv": 220
+}, {
+	"npcName": "魔教妖女",
+	"npcId": 1119,
+	"npcLv": 220
+}, {
+	"npcName": "风蛛使",
+	"npcId": 1152,
+	"npcLv": 220
+}, {
+	"npcName": "智觉",
+	"npcId": 1127,
+	"npcLv": 220
+}, {
+	"npcName": "蔡文姬",
+	"npcId": 1071,
+	"npcLv": 220
+}, {
+	"npcName": "劲松道人",
+	"npcId": 1053,
+	"npcLv": 220
+}, {
+	"npcName": "金万山",
+	"npcId": 1086,
+	"npcLv": 210
+}, {
+	"npcName": "灵蟾使",
+	"npcId": 1154,
+	"npcLv": 210
+}, {
+	"npcName": "天蝎使",
+	"npcId": 1155,
+	"npcLv": 210
+}, {
+	"npcName": "宝龙",
+	"npcId": 1166,
+	"npcLv": 210
+}, {
+	"npcName": "情报团长",
+	"npcId": 1111,
+	"npcLv": 200
+}, {
+	"npcName": "大档头",
+	"npcId": 1266,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-掌",
+	"npcId": 1305,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-拳",
+	"npcId": 1304,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-守",
+	"npcId": 1311,
+	"npcLv": 200
+}, {
+	"npcName": "平婆婆",
+	"npcId": 1163,
+	"npcLv": 200
+}, {
+	"npcName": "白万水",
+	"npcId": 1087,
+	"npcLv": 200
+}, {
+	"npcName": "火云邪神",
+	"npcId": 1295,
+	"npcLv": 200
+}, {
+	"npcName": "三喽啰",
+	"npcId": 1294,
+	"npcLv": 200
+}, {
+	"npcName": "苍槐道人",
+	"npcId": 1054,
+	"npcLv": 200
+}, {
+	"npcName": "追风",
+	"npcId": 1255,
+	"npcLv": 200
+}, {
+	"npcName": "二喽啰",
+	"npcId": 1293,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-毒",
+	"npcId": 1310,
+	"npcLv": 200
+}, {
+	"npcName": "智永",
+	"npcId": 1124,
+	"npcLv": 200
+}, {
+	"npcName": "智如",
+	"npcId": 1125,
+	"npcLv": 200
+}, {
+	"npcName": "杨慎",
+	"npcId": 1277,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-鞭",
+	"npcId": 1309,
+	"npcLv": 200
+}, {
+	"npcName": "大喽啰",
+	"npcId": 1292,
+	"npcLv": 200
+}, {
+	"npcName": "顾炎武",
+	"npcId": 1025,
+	"npcLv": 200
+}, {
+	"npcName": "柳如是",
+	"npcId": 1073,
+	"npcLv": 200
+}, {
+	"npcName": "林震南",
+	"npcId": 3084,
+	"npcLv": 200
+}, {
+	"npcName": "上官婉儿",
+	"npcId": 1074,
+	"npcLv": 200
+}, {
+	"npcName": "马长老",
+	"npcId": 1137,
+	"npcLv": 200
+}, {
+	"npcName": "朱长老",
+	"npcId": 1138,
+	"npcLv": 200
+}, {
+	"npcName": "大喽啰",
+	"npcId": 3100,
+	"npcLv": 200
+}, {
+	"npcName": "如梦",
+	"npcId": 1290,
+	"npcLv": 200
+}, {
+	"npcName": "伙头僧",
+	"npcId": 1301,
+	"npcLv": 200
+}, {
+	"npcName": "神捕",
+	"npcId": 1021,
+	"npcLv": 200
+}, {
+	"npcName": "智嗔",
+	"npcId": 1018,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-棍",
+	"npcId": 1308,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-剑",
+	"npcId": 1307,
+	"npcLv": 200
+}, {
+	"npcName": "孔自己",
+	"npcId": 1285,
+	"npcLv": 200
+}, {
+	"npcName": "飞蜈使",
+	"npcId": 1153,
+	"npcLv": 200
+}, {
+	"npcName": "白玉汤",
+	"npcId": 1242,
+	"npcLv": 200
+}, {
+	"npcName": "追风",
+	"npcId": 3078,
+	"npcLv": 200
+}, {
+	"npcName": "青龙坛主-刀",
+	"npcId": 1306,
+	"npcLv": 200
+}, {
+	"npcName": "小龙女",
+	"npcId": 1162,
+	"npcLv": 200
+}, {
+	"npcName": "宝象",
+	"npcId": 3054,
+	"npcLv": 190
+}, {
+	"npcName": "宝象",
+	"npcId": 1167,
+	"npcLv": 190
+}, {
+	"npcName": "强盗",
+	"npcId": 2206,
+	"npcLv": 180
+}, {
+	"npcName": "寒柏道人",
+	"npcId": 1055,
+	"npcLv": 180
+}, {
+	"npcName": "杨长老",
+	"npcId": 1139,
+	"npcLv": 180
+}, {
+	"npcName": "李师师",
+	"npcId": 1075,
+	"npcLv": 180
+}, {
+	"npcName": "蓝万天",
+	"npcId": 1088,
+	"npcLv": 180
+}, {
+	"npcName": "胡飞",
+	"npcId": 1098,
+	"npcLv": 180
+}, {
+	"npcName": "紫衣",
+	"npcId": 1099,
+	"npcLv": 180
+}, {
+	"npcName": "弥左卫门",
+	"npcId": 1110,
+	"npcLv": 180
+}, {
+	"npcName": "智善",
+	"npcId": 1126,
+	"npcLv": 180
+}, {
+	"npcName": "青蛇使",
+	"npcId": 1156,
+	"npcLv": 180
+}, {
+	"npcName": "林震南",
+	"npcId": 1267,
+	"npcLv": 180
+}, {
+	"npcName": "金花婆婆",
+	"npcId": 1257,
+	"npcLv": 180
+}, {
+	"npcName": "杨慎",
+	"npcId": 1238,
+	"npcLv": 180
+}, {
+	"npcName": "杨麒麟",
+	"npcId": 1161,
+	"npcLv": 180
+}, {
+	"npcName": "宝虎",
+	"npcId": 1168,
+	"npcLv": 170
+}, {
+	"npcName": "洪万紫",
+	"npcId": 1089,
+	"npcLv": 170
+}, {
+	"npcName": "采药道人",
+	"npcId": 1056,
+	"npcLv": 160
+}, {
+	"npcName": "刘长老",
+	"npcId": 1140,
+	"npcLv": 160
+}, {
+	"npcName": "王语嫣",
+	"npcId": 1253,
+	"npcLv": 160
+}, {
+	"npcName": "玫瑰之瞳",
+	"npcId": 1105,
+	"npcLv": 160
+}, {
+	"npcName": "如花",
+	"npcId": 1289,
+	"npcLv": 160
+}, {
+	"npcName": "抱剑侠",
+	"npcId": 1250,
+	"npcLv": 150
+}, {
+	"npcName": "迎客道人",
+	"npcId": 1057,
+	"npcLv": 150
+}, {
+	"npcName": "射雕大侠",
+	"npcId": 1193,
+	"npcLv": 150
+}, {
+	"npcName": "闹事者",
+	"npcId": 3130,
+	"npcLv": 150
+}, {
+	"npcName": "强盗",
+	"npcId": 2205,
+	"npcLv": 150
+}, {
+	"npcName": "思考侠",
+	"npcId": 3077,
+	"npcLv": 150
+}, {
+	"npcName": "思考侠",
+	"npcId": 1251,
+	"npcLv": 150
+}, {
+	"npcName": "阿幅",
+	"npcId": 3049,
+	"npcLv": 150
+}, {
+	"npcName": "窥探者",
+	"npcId": 3065,
+	"npcLv": 150
+}, {
+	"npcName": "蓉儿",
+	"npcId": 1194,
+	"npcLv": 150
+}, {
+	"npcName": "背刀侠",
+	"npcId": 1249,
+	"npcLv": 150
+}, {
+	"npcName": "思考侠",
+	"npcId": 3073,
+	"npcLv": 150
+}, {
+	"npcName": "刺客",
+	"npcId": 3066,
+	"npcLv": 150
+}, {
+	"npcName": "大当家",
+	"npcId": 1176,
+	"npcLv": 140
+}, {
+	"npcName": "宝马",
+	"npcId": 1169,
+	"npcLv": 140
+}, {
+	"npcName": "食破天",
+	"npcId": 1095,
+	"npcLv": 120
+}, {
+	"npcName": "四肢麻木的血掌",
+	"npcId": 3010,
+	"npcLv": 120
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 3051,
+	"npcLv": 120
+}, {
+	"npcName": "耿云",
+	"npcId": 1174,
+	"npcLv": 120
+}, {
+	"npcName": "铁拳钢手 分身",
+	"npcId": 1115,
+	"npcLv": 120
+}, {
+	"npcName": "强盗",
+	"npcId": 2204,
+	"npcLv": 120
+}, {
+	"npcName": "宝马",
+	"npcId": 3012,
+	"npcLv": 110
+}, {
+	"npcName": "扫帚",
+	"npcId": 3003
+}, {
+	"npcName": "红宁",
+	"npcId": 3031
+}, {
+	"npcName": "宝龙",
+	"npcId": 3030
+}, {
+	"npcName": "浪人乙",
+	"npcId": 1114,
+	"npcLv": 100
+}, {
+	"npcName": "猪笼草",
+	"npcId": 3086
+}, {
+	"npcName": "扫帚",
+	"npcId": 3048
+}, {
+	"npcName": "跛脚大盗",
+	"npcId": 1034,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3074
+}, {
+	"npcName": "扫帚",
+	"npcId": 3109
+}, {
+	"npcName": "扫帚",
+	"npcId": 3071
+}, {
+	"npcName": "扫帚",
+	"npcId": 3070
+}, {
+	"npcName": "除恶NPC1",
+	"npcId": 1189
+}, {
+	"npcName": "除恶NPC2",
+	"npcId": 1190
+}, {
+	"npcName": "除恶NPC3",
+	"npcId": 1191
+}, {
+	"npcName": "除恶NPC4",
+	"npcId": 1192
+}, {
+	"npcName": "扫帚",
+	"npcId": 3069
+}, {
+	"npcName": "扫帚",
+	"npcId": 3067
+}, {
+	"npcName": "镖车",
+	"npcId": 3002
+}, {
+	"npcName": "赌神",
+	"npcId": 1019,
+	"npcLv": 100
+}, {
+	"npcName": "李白",
+	"npcId": 1020,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3046
+}, {
+	"npcName": "扫帚",
+	"npcId": 3064
+}, {
+	"npcName": "扫帚",
+	"npcId": 3028
+}, {
+	"npcName": "扫帚",
+	"npcId": 3026
+}, {
+	"npcName": "扫帚",
+	"npcId": 3025
+}, {
+	"npcName": "扫帚",
+	"npcId": 3044
+}, {
+	"npcName": "强盗",
+	"npcId": 2203,
+	"npcLv": 100
+}, {
+	"npcName": "关公像",
+	"npcId": 2184
+}, {
+	"npcName": "关公像",
+	"npcId": 2183
+}, {
+	"npcName": "蜈蚣纹",
+	"npcId": 2095
+}, {
+	"npcName": "蜘蛛纹",
+	"npcId": 2094
+}, {
+	"npcName": "蝎子纹",
+	"npcId": 2093
+}, {
+	"npcName": "毒蛇纹",
+	"npcId": 2092
+}, {
+	"npcName": "扫帚",
+	"npcId": 3023
+}, {
+	"npcName": "赌神",
+	"npcId": 1214,
+	"npcLv": 100
+}, {
+	"npcName": "蟾蜍纹",
+	"npcId": 2091
+}, {
+	"npcName": "蜈蚣纹",
+	"npcId": 2090
+}, {
+	"npcName": "蜘蛛纹",
+	"npcId": 2089
+}, {
+	"npcName": "蝎子纹",
+	"npcId": 2088
+}, {
+	"npcName": "毒蛇纹",
+	"npcId": 2087
+}, {
+	"npcName": "蟾蜍纹",
+	"npcId": 2086
+}, {
+	"npcName": "少侠袍",
+	"npcId": 2084
+}, {
+	"npcName": "毒蘑菇",
+	"npcId": 2083
+}, {
+	"npcName": "扫帚",
+	"npcId": 2082
+}, {
+	"npcName": "扫帚",
+	"npcId": 2081
+}, {
+	"npcName": "扫帚",
+	"npcId": 2080
+}, {
+	"npcName": "扫帚",
+	"npcId": 2079
+}, {
+	"npcName": "扫帚",
+	"npcId": 2078
+}, {
+	"npcName": "扫帚",
+	"npcId": 2077
+}, {
+	"npcName": "扫帚",
+	"npcId": 2076
+}, {
+	"npcName": "扫帚",
+	"npcId": 2075
+}, {
+	"npcName": "扫帚",
+	"npcId": 2074
+}, {
+	"npcName": "扫帚",
+	"npcId": 1232
+}, {
+	"npcName": "扫帚",
+	"npcId": 2073
+}, {
+	"npcName": "扫帚",
+	"npcId": 1234
+}, {
+	"npcName": "扫帚",
+	"npcId": 2072
+}, {
+	"npcName": "扫帚",
+	"npcId": 1236
+}, {
+	"npcName": "扫帚",
+	"npcId": 3043
+}, {
+	"npcName": "扫帚",
+	"npcId": 3042
+}, {
+	"npcName": "孔自己",
+	"npcId": 1239,
+	"npcLv": 100
+}, {
+	"npcName": "聂采臣",
+	"npcId": 1240,
+	"npcLv": 100
+}, {
+	"npcName": "范劲",
+	"npcId": 1241,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3041
+}, {
+	"npcName": "扫帚",
+	"npcId": 3063
+}, {
+	"npcName": "扫帚",
+	"npcId": 3062
+}, {
+	"npcName": "扫帚",
+	"npcId": 3061
+}, {
+	"npcName": "扫帚",
+	"npcId": 2071
+}, {
+	"npcName": "扫帚",
+	"npcId": 2070
+}, {
+	"npcName": "扫帚",
+	"npcId": 2069
+}, {
+	"npcName": "智善",
+	"npcId": 3105,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3060
+}, {
+	"npcName": "扫帚",
+	"npcId": 3021
+}, {
+	"npcName": "萝卜田",
+	"npcId": 3085
+}, {
+	"npcName": "扫帚",
+	"npcId": 3019
+}, {
+	"npcName": "扫帚",
+	"npcId": 3018
+}, {
+	"npcName": "扫帚",
+	"npcId": 3017
+}, {
+	"npcName": "扫帚",
+	"npcId": 2068
+}, {
+	"npcName": "扫帚",
+	"npcId": 3016
+}, {
+	"npcName": "扫帚",
+	"npcId": 3015
+}, {
+	"npcName": "算命道士",
+	"npcId": 1259,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 2067
+}, {
+	"npcName": "扫帚",
+	"npcId": 2066
+}, {
+	"npcName": "扫帚",
+	"npcId": 2065
+}, {
+	"npcName": "扫帚",
+	"npcId": 3014
+}, {
+	"npcName": "悍匪",
+	"npcId": 3103
+}, {
+	"npcName": "扫帚",
+	"npcId": 3040
+}, {
+	"npcName": "扫帚",
+	"npcId": 3039
+}, {
+	"npcName": "扫帚",
+	"npcId": 3038
+}, {
+	"npcName": "扫帚",
+	"npcId": 2064
+}, {
+	"npcName": "土匪",
+	"npcId": 3102
+}, {
+	"npcName": "扫帚",
+	"npcId": 3036
+}, {
+	"npcName": "扫帚",
+	"npcId": 2063
+}, {
+	"npcName": "扫帚",
+	"npcId": 2062
+}, {
+	"npcName": "扫帚",
+	"npcId": 2061
+}, {
+	"npcName": "扫帚",
+	"npcId": 2060
+}, {
+	"npcName": "扫帚",
+	"npcId": 2059
+}, {
+	"npcName": "佟镶玉",
+	"npcId": 1012,
+	"npcLv": 100
+}, {
+	"npcName": "劫匪",
+	"npcId": 3101
+}, {
+	"npcName": "桃红",
+	"npcId": 1278,
+	"npcLv": 100
+}, {
+	"npcName": "柳绿",
+	"npcId": 1279,
+	"npcLv": 100
+}, {
+	"npcName": "秋菊",
+	"npcId": 1280,
+	"npcLv": 100
+}, {
+	"npcName": "冬梅",
+	"npcId": 1281,
+	"npcLv": 100
+}, {
+	"npcName": "老鸨",
+	"npcId": 1282,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3013
+}, {
+	"npcName": "扫帚",
+	"npcId": 3081
+}, {
+	"npcName": "扫帚",
+	"npcId": 3011
+}, {
+	"npcName": "扫帚",
+	"npcId": 2058
+}, {
+	"npcName": "扫帚",
+	"npcId": 2057
+}, {
+	"npcName": "扫帚",
+	"npcId": 2056
+}, {
+	"npcName": "扫帚",
+	"npcId": 3080
+}, {
+	"npcName": "桃红",
+	"npcId": 3135,
+	"npcLv": 100
+}, {
+	"npcName": "桃红",
+	"npcId": 3133,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3058
+}, {
+	"npcName": "扫帚",
+	"npcId": 3057
+}, {
+	"npcName": "扫帚",
+	"npcId": 3056
+}, {
+	"npcName": "浪人乙",
+	"npcId": 3120,
+	"npcLv": 100
+}, {
+	"npcName": "智嗔",
+	"npcId": 3053,
+	"npcLv": 100
+}, {
+	"npcName": "月老",
+	"npcId": 1297,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 3034
+}, {
+	"npcName": "左柱",
+	"npcId": 1107,
+	"npcLv": 100
+}, {
+	"npcName": "扫帚",
+	"npcId": 2055
+}, {
+	"npcName": "扫帚",
+	"npcId": 2054
+}, {
+	"npcName": "扫帚",
+	"npcId": 3009
+}, {
+	"npcName": "扫帚",
+	"npcId": 3008
+}, {
+	"npcName": "扫帚",
+	"npcId": 3007
+}, {
+	"npcName": "扫帚",
+	"npcId": 3006
+}, {
+	"npcName": "扫帚",
+	"npcId": 3052
+}, {
+	"npcName": "扫帚",
+	"npcId": 3032
+}, {
+	"npcName": "扫帚",
+	"npcId": 3076
+}, {
+	"npcName": "扫帚",
+	"npcId": 3050
+}, {
+	"npcName": "砍柴树",
+	"npcId": 2001
+}, {
+	"npcName": "打水井",
+	"npcId": 2002
+}, {
+	"npcName": "扫帚",
+	"npcId": 2003
+}, {
+	"npcName": "木材堆",
+	"npcId": 2004
+}, {
+	"npcName": "麻绳",
+	"npcId": 2005
+}, {
+	"npcName": "钓鱼塘",
+	"npcId": 2006
+}, {
+	"npcName": "自杀树",
+	"npcId": 2007
+}, {
+	"npcName": "喝水井",
+	"npcId": 2008
+}, {
+	"npcName": "马",
+	"npcId": 2009
+}, {
+	"npcName": "石子",
+	"npcId": 2010
+}, {
+	"npcName": "匕首",
+	"npcId": 2011
+}, {
+	"npcName": "板凳",
+	"npcId": 2012
+}, {
+	"npcName": "锯子",
+	"npcId": 2013
+}, {
+	"npcName": "皮手套",
+	"npcId": 2014
+}, {
+	"npcName": "铁锤",
+	"npcId": 2015
+}, {
+	"npcName": "金项链",
+	"npcId": 2016
+}, {
+	"npcName": "金戒指",
+	"npcId": 2017
+}, {
+	"npcName": "草帽",
+	"npcId": 2018
+}, {
+	"npcName": "草鞋",
+	"npcId": 2019
+}, {
+	"npcName": "蓑衣",
+	"npcId": 2020
+}, {
+	"npcName": "关公像",
+	"npcId": 2021
+}, {
+	"npcName": "21022",
+	"npcId": 2022
+}, {
+	"npcName": "烈酒",
+	"npcId": 2025
+}, {
+	"npcName": "关着的棺材",
+	"npcId": 2026
+}, {
+	"npcName": "头骨",
+	"npcId": 2027
+}, {
+	"npcName": "北郊的树",
+	"npcId": 2028
+}, {
+	"npcName": "孤坟",
+	"npcId": 2029
+}, {
+	"npcName": "告示牌",
+	"npcId": 2030
+}, {
+	"npcName": "告示牌",
+	"npcId": 2031
+}, {
+	"npcName": "北郊的树",
+	"npcId": 2032
+}, {
+	"npcName": "北郊的树",
+	"npcId": 2033
+}, {
+	"npcName": "扫帚",
+	"npcId": 2053
+}, {
+	"npcName": "开着的棺材",
+	"npcId": 2035
+}, {
+	"npcName": "扫帚",
+	"npcId": 2036
+}, {
+	"npcName": "扫帚",
+	"npcId": 2037
+}, {
+	"npcName": "扫帚",
+	"npcId": 2046
+}, {
+	"npcName": "扫帚",
+	"npcId": 2047
+}, {
+	"npcName": "扫帚",
+	"npcId": 2048
+}, {
+	"npcName": "扫帚",
+	"npcId": 2049
+}, {
+	"npcName": "扫帚",
+	"npcId": 2050
+}, {
+	"npcName": "扫帚",
+	"npcId": 2051
+}, {
+	"npcName": "扫帚",
+	"npcId": 2052
+}, {
+	"npcName": "子静",
+	"npcId": 1129,
+	"npcLv": 90
+}, {
+	"npcName": "幽兰道士",
+	"npcId": 1059,
+	"npcLv": 90
+}, {
+	"npcName": "司棋",
+	"npcId": 1077,
+	"npcLv": 90
+}, {
+	"npcName": "李四",
+	"npcId": 1142,
+	"npcLv": 90
+}, {
+	"npcName": "平三指",
+	"npcId": 1272,
+	"npcLv": 80
+}, {
+	"npcName": "傲梅道士",
+	"npcId": 1058,
+	"npcLv": 80
+}, {
+	"npcName": "子乘",
+	"npcId": 1130,
+	"npcLv": 80
+}, {
+	"npcName": "坚竹道士",
+	"npcId": 1060,
+	"npcLv": 80
+}, {
+	"npcName": "听琴",
+	"npcId": 3110,
+	"npcLv": 80
+}, {
+	"npcName": "吃货",
+	"npcId": 1248,
+	"npcLv": 80
+}, {
+	"npcName": "食客 ",
+	"npcId": 1247,
+	"npcLv": 80
+}, {
+	"npcName": "酒鬼",
+	"npcId": 1246,
+	"npcLv": 80
+}, {
+	"npcName": "听琴",
+	"npcId": 1076,
+	"npcLv": 80
+}, {
+	"npcName": "上官衫",
+	"npcId": 1036,
+	"npcLv": 80
+}, {
+	"npcName": "侍书",
+	"npcId": 1078,
+	"npcLv": 80
+}, {
+	"npcName": "入画",
+	"npcId": 1079,
+	"npcLv": 80
+}, {
+	"npcName": "陆千里",
+	"npcId": 1090,
+	"npcLv": 80
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1223,
+	"npcLv": 80
+}, {
+	"npcName": "傲梅道士",
+	"npcId": 1222,
+	"npcLv": 80
+}, {
+	"npcName": "黄格",
+	"npcId": 1221,
+	"npcLv": 80
+}, {
+	"npcName": "水千波",
+	"npcId": 1091,
+	"npcLv": 80
+}, {
+	"npcName": "魑",
+	"npcId": 1220,
+	"npcLv": 80
+}, {
+	"npcName": "张三",
+	"npcId": 1219,
+	"npcLv": 80
+}, {
+	"npcName": "子衍",
+	"npcId": 1218,
+	"npcLv": 80
+}, {
+	"npcName": "鸟人",
+	"npcId": 1217,
+	"npcLv": 80
+}, {
+	"npcName": "陆千里",
+	"npcId": 1216,
+	"npcLv": 80
+}, {
+	"npcName": "听琴",
+	"npcId": 1215,
+	"npcLv": 80
+}, {
+	"npcName": "傲梅道士",
+	"npcId": 1210,
+	"npcLv": 80
+}, {
+	"npcName": "黑衣大盗",
+	"npcId": 1033,
+	"npcLv": 80
+}, {
+	"npcName": "魑",
+	"npcId": 1208,
+	"npcLv": 80
+}, {
+	"npcName": "张三",
+	"npcId": 1207,
+	"npcLv": 80
+}, {
+	"npcName": "何千刃",
+	"npcId": 1092,
+	"npcLv": 80
+}, {
+	"npcName": "强盗",
+	"npcId": 2202,
+	"npcLv": 80
+}, {
+	"npcName": "子衍",
+	"npcId": 1206,
+	"npcLv": 80
+}, {
+	"npcName": "鸟人",
+	"npcId": 1205,
+	"npcLv": 80
+}, {
+	"npcName": "陆千里",
+	"npcId": 1204,
+	"npcLv": 80
+}, {
+	"npcName": "听琴",
+	"npcId": 1203,
+	"npcLv": 80
+}, {
+	"npcName": "无助的女镖师",
+	"npcId": 3001,
+	"npcLv": 80
+}, {
+	"npcName": "鸟人",
+	"npcId": 1106,
+	"npcLv": 80
+}, {
+	"npcName": "二当家",
+	"npcId": 1177,
+	"npcLv": 80
+}, {
+	"npcName": "水生",
+	"npcId": 1175,
+	"npcLv": 80
+}, {
+	"npcName": "白举",
+	"npcId": 1171,
+	"npcLv": 80
+}, {
+	"npcName": "黄格",
+	"npcId": 1170,
+	"npcLv": 80
+}, {
+	"npcName": "雏菊",
+	"npcId": 1109,
+	"npcLv": 80
+}, {
+	"npcName": "魅",
+	"npcId": 1158,
+	"npcLv": 80
+}, {
+	"npcName": "魑",
+	"npcId": 1157,
+	"npcLv": 80
+}, {
+	"npcName": "浪人甲",
+	"npcId": 1113,
+	"npcLv": 80
+}, {
+	"npcName": "水生",
+	"npcId": 3029,
+	"npcLv": 80
+}, {
+	"npcName": "三喽啰",
+	"npcId": 3117,
+	"npcLv": 80
+}, {
+	"npcName": "赵六",
+	"npcId": 1144,
+	"npcLv": 80
+}, {
+	"npcName": "王五",
+	"npcId": 1143,
+	"npcLv": 80
+}, {
+	"npcName": "平二指",
+	"npcId": 1043,
+	"npcLv": 80
+}, {
+	"npcName": "张三",
+	"npcId": 1141,
+	"npcLv": 80
+}, {
+	"npcName": "子衍",
+	"npcId": 1128,
+	"npcLv": 80
+}, {
+	"npcName": "子仁",
+	"npcId": 1131,
+	"npcLv": 80
+}, {
+	"npcName": "黄格",
+	"npcId": 1209,
+	"npcLv": 80
+}, {
+	"npcName": "花千红",
+	"npcId": 1093,
+	"npcLv": 70
+}, {
+	"npcName": "孙七",
+	"npcId": 1145,
+	"npcLv": 70
+}, {
+	"npcName": "周八",
+	"npcId": 1146,
+	"npcLv": 70
+}, {
+	"npcName": "樱花",
+	"npcId": 1108,
+	"npcLv": 70
+}, {
+	"npcName": "淡菊道士",
+	"npcId": 1061,
+	"npcLv": 70
+}, {
+	"npcName": "瑞婆婆",
+	"npcId": 1080,
+	"npcLv": 70
+}, {
+	"npcName": "土匪头子",
+	"npcId": 1066,
+	"npcLv": 70
+}, {
+	"npcName": "红宁",
+	"npcId": 3027,
+	"npcLv": 70
+}, {
+	"npcName": "花萨",
+	"npcId": 1173,
+	"npcLv": 70
+}, {
+	"npcName": "红宁",
+	"npcId": 1172,
+	"npcLv": 70
+}, {
+	"npcName": "镇长",
+	"npcId": 3088,
+	"npcLv": 60
+}, {
+	"npcName": "流氓头子",
+	"npcId": 1029,
+	"npcLv": 60
+}, {
+	"npcName": "郑十",
+	"npcId": 1148,
+	"npcLv": 60
+}, {
+	"npcName": "魍",
+	"npcId": 1159,
+	"npcLv": 60
+}, {
+	"npcName": "魉",
+	"npcId": 1160,
+	"npcLv": 60
+}, {
+	"npcName": "闫基",
+	"npcId": 1097,
+	"npcLv": 60
+}, {
+	"npcName": "秀儿",
+	"npcId": 1094,
+	"npcLv": 60
+}, {
+	"npcName": "强盗",
+	"npcId": 2201,
+	"npcLv": 60
+}, {
+	"npcName": "采花大盗",
+	"npcId": 1032,
+	"npcLv": 60
+}, {
+	"npcName": "食太郎",
+	"npcId": 1015,
+	"npcLv": 60
+}, {
+	"npcName": "镇长",
+	"npcId": 1023,
+	"npcLv": 60
+}, {
+	"npcName": "铁匠他哥",
+	"npcId": 1273,
+	"npcLv": 60
+}, {
+	"npcName": "铁匠",
+	"npcId": 1044,
+	"npcLv": 60
+}, {
+	"npcName": "林教头",
+	"npcId": 1048,
+	"npcLv": 60
+}, {
+	"npcName": "无忌",
+	"npcId": 1133,
+	"npcLv": 60
+}, {
+	"npcName": "吴九",
+	"npcId": 1147,
+	"npcLv": 60
+}, {
+	"npcName": "路人乙",
+	"npcId": 3068,
+	"npcLv": 50
+}, {
+	"npcName": "路人丙",
+	"npcId": 1262,
+	"npcLv": 50
+}, {
+	"npcName": "夏洛克",
+	"npcId": 1271,
+	"npcLv": 50
+}, {
+	"npcName": "路人甲",
+	"npcId": 1260,
+	"npcLv": 50
+}, {
+	"npcName": "葛朗台",
+	"npcId": 1046,
+	"npcLv": 50
+}, {
+	"npcName": "荷官",
+	"npcId": 1017,
+	"npcLv": 50
+}, {
+	"npcName": "官兵",
+	"npcId": 1008,
+	"npcLv": 50
+}, {
+	"npcName": "林平之",
+	"npcId": 1268,
+	"npcLv": 50
+}, {
+	"npcName": "胡屠夫",
+	"npcId": 1010,
+	"npcLv": 50
+}, {
+	"npcName": "路人丙",
+	"npcId": 3072,
+	"npcLv": 50
+}, {
+	"npcName": "荷官她妹",
+	"npcId": 1274,
+	"npcLv": 50
+}, {
+	"npcName": "荷西",
+	"npcId": 1011,
+	"npcLv": 50
+}, {
+	"npcName": "东郊壮丁",
+	"npcId": 1031,
+	"npcLv": 50
+}, {
+	"npcName": "路人乙",
+	"npcId": 1261,
+	"npcLv": 50
+}, {
+	"npcName": "苍井",
+	"npcId": 1178,
+	"npcLv": 40
+}, {
+	"npcName": "厨师",
+	"npcId": 1013,
+	"npcLv": 40
+}, {
+	"npcName": "镇长老婆",
+	"npcId": 1024,
+	"npcLv": 40
+}, {
+	"npcName": "店小二",
+	"npcId": 1042,
+	"npcLv": 40
+}, {
+	"npcName": "巡捕",
+	"npcId": 1022,
+	"npcLv": 40
+}, {
+	"npcName": "菖蒲",
+	"npcId": 1112,
+	"npcLv": 40
+}, {
+	"npcName": "烧饭道童",
+	"npcId": 1062,
+	"npcLv": 40
+}, {
+	"npcName": "潘小莲",
+	"npcId": 1037,
+	"npcLv": 40
+}, {
+	"npcName": "茶花女",
+	"npcId": 1081,
+	"npcLv": 40
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1200,
+	"npcLv": 40
+}, {
+	"npcName": "包工头",
+	"npcId": 1035,
+	"npcLv": 40
+}, {
+	"npcName": "燕小七",
+	"npcId": 3115,
+	"npcLv": 40
+}, {
+	"npcName": "潘小莲",
+	"npcId": 1227,
+	"npcLv": 40
+}, {
+	"npcName": "苍井",
+	"npcId": 1229,
+	"npcLv": 40
+}, {
+	"npcName": "苍井",
+	"npcId": 1230,
+	"npcLv": 40
+}, {
+	"npcName": "迎客道童",
+	"npcId": 1063,
+	"npcLv": 40
+}, {
+	"npcName": "西门广",
+	"npcId": 3108,
+	"npcLv": 30
+}, {
+	"npcName": "强盗",
+	"npcId": 1014,
+	"npcLv": 30
+}, {
+	"npcName": "古董商",
+	"npcId": 1045,
+	"npcLv": 30
+}, {
+	"npcName": "杂货商",
+	"npcId": 1275,
+	"npcLv": 30
+}, {
+	"npcName": "奇货商",
+	"npcId": 1009,
+	"npcLv": 30
+}, {
+	"npcName": "海盗丙",
+	"npcId": 1235,
+	"npcLv": 30
+}, {
+	"npcName": "杂货商",
+	"npcId": 1041,
+	"npcLv": 30
+}, {
+	"npcName": "西门广",
+	"npcId": 1007,
+	"npcLv": 30
+}, {
+	"npcName": "海盗甲",
+	"npcId": 1231,
+	"npcLv": 30
+}, {
+	"npcName": "小商贩",
+	"npcId": 1039,
+	"npcLv": 30
+}, {
+	"npcName": "跟踪者",
+	"npcId": 2034,
+	"npcLv": 30
+}, {
+	"npcName": "土匪",
+	"npcId": 1065,
+	"npcLv": 30
+}, {
+	"npcName": "桃花",
+	"npcId": 1064,
+	"npcLv": 30
+}, {
+	"npcName": "少年英雄大会主持人",
+	"npcId": 1212,
+	"npcLv": 30
+}, {
+	"npcName": "少年英雄大会管理人员",
+	"npcId": 1211,
+	"npcLv": 30
+}, {
+	"npcName": "海盗丙",
+	"npcId": 3126,
+	"npcLv": 30
+}, {
+	"npcName": "黑风寨喽啰",
+	"npcId": 1199,
+	"npcLv": 30
+}, {
+	"npcName": "官兵",
+	"npcId": 1303,
+	"npcLv": 30
+}, {
+	"npcName": "承包商",
+	"npcId": 1030,
+	"npcLv": 30
+}, {
+	"npcName": "探子",
+	"npcId": 1198,
+	"npcLv": 30
+}, {
+	"npcName": "左柱",
+	"npcId": 3059,
+	"npcLv": 30
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1226,
+	"npcLv": 20
+}, {
+	"npcName": "壮丁",
+	"npcId": 1027,
+	"npcLv": 20
+}, {
+	"npcName": "流氓",
+	"npcId": 1028,
+	"npcLv": 20
+}, {
+	"npcName": "海盗乙",
+	"npcId": 3128,
+	"npcLv": 20
+}, {
+	"npcName": "卖花妞",
+	"npcId": 1040,
+	"npcLv": 20
+}, {
+	"npcName": "香客",
+	"npcId": 1067,
+	"npcLv": 20
+}, {
+	"npcName": "花童",
+	"npcId": 1082,
+	"npcLv": 20
+}, {
+	"npcName": "进香客",
+	"npcId": 1132,
+	"npcLv": 20
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1197,
+	"npcLv": 20
+}, {
+	"npcName": "魉",
+	"npcId": 2085,
+	"npcLv": 20
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1224,
+	"npcLv": 20
+}, {
+	"npcName": "慕容嫣",
+	"npcId": 1225,
+	"npcLv": 20
+}, {
+	"npcName": "子衍（三成功力）",
+	"npcId": 1302,
+	"npcLv": 20
+}, {
+	"npcName": "甄建",
+	"npcId": 1228,
+	"npcLv": 20
+}, {
+	"npcName": "海盗乙",
+	"npcId": 1233,
+	"npcLv": 20
+}, {
+	"npcName": "老裁缝",
+	"npcId": 1006,
+	"npcLv": 20
+}, {
+	"npcName": "老裁缝",
+	"npcId": 1286,
+	"npcLv": 20
+}, {
+	"npcName": "如烟",
+	"npcId": 1287,
+	"npcLv": 20
+}, {
+	"npcName": "如雨",
+	"npcId": 1288,
+	"npcLv": 20
+}, {
+	"npcName": "小书童",
+	"npcId": 1026,
+	"npcLv": 10
+}, {
+	"npcName": "小裁缝",
+	"npcId": 1038,
+	"npcLv": 10
+}, {
+	"npcName": "小馋鬼",
+	"npcId": 1005,
+	"npcLv": 2
+}, {
+	"npcName": "老婆婆",
+	"npcId": 1004,
+	"npcLv": 2
+}, {
+	"npcName": "小宝",
+	"npcId": 1002,
+	"npcLv": 1
+}, {
+	"npcName": "恶霸",
+	"npcId": 1001,
+	"npcLv": 1
+}]
